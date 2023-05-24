@@ -20,12 +20,12 @@ Motivated by these alarming facts, Plate2Planet was created as an innovative, da
 -  CSS
 
 ## FVM Deployment
-- P2P Marketplace Smart Contract: https://hyperspace.filfox.info/en/message/0x827f49145601049ef19613e64d8e25fd7875aa61cb88540b60c11004ae99c0cd
-- P2P Data Dao Smart Contract: 
+- P2P Marketplace Smart Contract Link: https://hyperspace.filfox.info/en/message/0x827f49145601049ef19613e64d8e25fd7875aa61cb88540b60c11004ae99c0cd
+- P2P Data Dao Smart Contract Link: 
 
 
 ## Spheron Deployment
-Usi
+- Spheron Deployment Link: https://plate2planet-cfb179.spheron.app/
 
 ## Challenges
 Using new libraries and getting everything to compile, as well as issues with IntelliJ that had to be troubleshooted
