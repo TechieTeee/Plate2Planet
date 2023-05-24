@@ -1,6 +1,6 @@
 ![Plate 2 Planet Presentation](https://github.com/TechieTeee/Plate2Planet/assets/100870737/d7762dec-f672-4fc9-93fd-4afa9e0eaa18)
 
-## Demo (Click On the Embedded Image)
+## Demo (Click On the Below Embedded Image)
 [![Video](https://img.youtube.com/vi/EXh-Wjald1c/0.jpg)](https://www.youtube.com/watch?v=EXh-Wjald1c)
 
 ## Inspiration
