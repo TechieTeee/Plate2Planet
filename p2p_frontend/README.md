@@ -8,4 +8,12 @@ Did you know that a staggering 2.5 billion tons of food is squandered annually w
 
 Motivated by these alarming facts, Plate2Planet was created as an innovative, data-driven, and blockchain-powered solution. The mission is simple yet powerful: to rescue food before it's wasted and provide crucial, transparent data to the public, all through a cutting-edge blockchain platform. Together, we can combat food waste, nourish the hungry, and create a brighter future for all. Join in this vital journey towards sustainability and social responsibility. Together, we can make a lasting difference. Let's power up for change with Plate2Planet!
 
-## Tools Used
+## Tools & Technologies Used
+-FEVM
+-Spheron
+-Solidity
+-Hardhat
+-Javascript
+-HTML
+-CSS
+
