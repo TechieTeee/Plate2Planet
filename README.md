@@ -1,4 +1,5 @@
-![Plate 2 Planet Presentation](https://github.com/TechieTeee/Plate2Planet/assets/100870737/d7762dec-f672-4fc9-93fd-4afa9e0eaa18)
+![Plate 2 Planet Presentation](https://github.com/TechieTeee/Plate2Planet/assets/100870737/69ace5b6-0835-487d-b9e4-02d30fca6bbd)
+
 
 ## Demo
 [![Video](https://img.youtube.com/vi/EXh-Wjald1c/0.jpg)](https://www.youtube.com/watch?v=EXh-Wjald1c)
