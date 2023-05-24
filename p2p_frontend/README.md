@@ -1,6 +1,6 @@
 ![Plate 2 Planet Presentation](https://github.com/TechieTeee/Plate2Planet/assets/100870737/d7762dec-f672-4fc9-93fd-4afa9e0eaa18)
 
-## Demo
+## Demo (Click On the Below Embedded Image)
 [![Video](https://img.youtube.com/vi/EXh-Wjald1c/0.jpg)](https://www.youtube.com/watch?v=EXh-Wjald1c)
 
 ## Inspiration
@@ -8,4 +8,25 @@ Did you know that a staggering 2.5 billion tons of food is squandered annually w
 
 Motivated by these alarming facts, Plate2Planet was created as an innovative, data-driven, and blockchain-powered solution. The mission is simple yet powerful: to rescue food before it's wasted and provide crucial, transparent data to the public, all through a cutting-edge blockchain platform. Together, we can combat food waste, nourish the hungry, and create a brighter future for all. Join in this vital journey towards sustainability and social responsibility. Together, we can make a lasting difference. Let's power up for change with Plate2Planet!
 
-## Tools Used
+## Tools & Technologies Used
+- FEVM
+- Spheron
+- Solidity
+- Hardhat
+- Javascript
+- HTML
+- CSS
+
+## Smart Contract Deployment
+- P2P Market Smart Contract:
+- P2P Data Dao Smart Contract: 
+
+## Spheron Deployment
+https://plate2planet-cfb179.spheron.app/
+
+
+## Challenges
+Using new libraries and compiling everything, also had issues with IntelliJ that I had to troubleshoot
+
+## Next Steps
+Possibly explore grant funding for the project and partnership with local food companies and continue making progress on the platform
