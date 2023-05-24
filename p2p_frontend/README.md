@@ -17,10 +17,16 @@ Motivated by these alarming facts, Plate2Planet was created as an innovative, da
 - HTML
 - CSS
 
-
 ## Smart Contract Deployment
 - P2P Market Smart Contract:
 - P2P Data Dao Smart Contract: 
 
 ## Spheron Deployment
 https://plate2planet-cfb179.spheron.app/
+
+
+## Challenges
+Using new libraries and compiling everything, also had issues with IntelliJ that I had to troubleshoot
+
+## Next Steps
+Possibly explore grant funding for the project and partnership with local food companies and continue making progress on the platform
