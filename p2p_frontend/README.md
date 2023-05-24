@@ -10,10 +10,10 @@ Motivated by these alarming facts, Plate2Planet was created as an innovative, da
 
 ## Tools & Technologies Used
 - FEVM
--Spheron
--Solidity
--Hardhat
--Javascript
--HTML
--CSS
+- Spheron
+- Solidity
+- Hardhat
+- Javascript
+- HTML
+- CSS
 
