@@ -1,7 +1,7 @@
 ![Plate 2 Planet Presentation](https://github.com/TechieTeee/Plate2Planet/assets/100870737/69ace5b6-0835-487d-b9e4-02d30fca6bbd)
 
 
-## Demo
+## Demo (Please click on below, embedded image)
 [![Video](https://img.youtube.com/vi/EXh-Wjald1c/0.jpg)](https://www.youtube.com/watch?v=EXh-Wjald1c)
 
 ## Inspiration
@@ -21,7 +21,7 @@ Motivated by these alarming facts, Plate2Planet was created as an innovative, da
 
 ## FVM Deployment
 - P2P Marketplace Smart Contract Link: https://hyperspace.filfox.info/en/message/0x827f49145601049ef19613e64d8e25fd7875aa61cb88540b60c11004ae99c0cd
-- P2P Data Dao Smart Contract Link: 
+- P2P Data Dao Smart Contract Link: https://hyperspace.filfox.info/en/message/0xfe88613c1b13648a702bd2d631cbae7cfd8b1eb46474ad1abac83b640be3b7ea
 
 
 ## Spheron Deployment
