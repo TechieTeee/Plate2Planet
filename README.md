@@ -11,6 +11,7 @@ Motivated by these alarming facts, Plate2Planet was created as an innovative, da
 
 ## Tools & Technologies Used
 - Filecoin Virtual Machine
+- Toucan Subgraph
 - Spheron
 - Javascript
 -  Solidity
