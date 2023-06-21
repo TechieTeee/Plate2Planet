@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
+import "@chainlink/contracts/src/v0.8/interfaces/Aggregator.sol";
+
 contract P2PMarket {
     address public owner;
     uint public rewardPointsPerPurchase;
@@ -18,6 +20,7 @@ contract P2PMarket {
     mapping(address => uint) public carbonCredits;
 
     event PurchaseMade(address indexed customer, string package, uint price, uint rewardPointsEarned, uint carbonCreditsEarned);
+    event PriceUSDUpdated(uint priceUSD);
 
     constructor() {
         owner = msg.sender;
@@ -34,10 +37,10 @@ contract P2PMarket {
         require(price > 0, "Price must be greater than zero");
 
         Purchase memory newPurchase = Purchase({
-        customer: msg.sender,
-        package: package,
-        price: price,
-        timestamp: block.timestamp
+            customer: msg.sender,
+            package: package,
+            price: price,
+            timestamp: block.timestamp
         });
 
         purchases.push(newPurchase);
@@ -49,6 +52,13 @@ contract P2PMarket {
         carbonCredits[msg.sender] += carbonCreditsEarned;
 
         emit PurchaseMade(msg.sender, package, price, rewardPointsEarned, carbonCreditsEarned);
+
+        // Fetch data from the TheGraph subgraph
+        Aggregator contract = Aggregator(0x0123456789abcdef0123456789abcdef01234567);
+        uint priceUSD = contract.latestAnswer();
+
+        // Log the price in USD
+        emit PriceUSDUpdated(priceUSD);
     }
 
     function getPurchasesCount() public view returns (uint) {
